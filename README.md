@@ -109,11 +109,8 @@ Then open your browser and go to:
 
 ---
 
-## 🖼️ Screenshots (Optional)
-
-| Home Page | Register Page | Attendance Page | Records Page |
-|------------|---------------|-----------------|---------------|
-| ![Home](static/images/home.png) | ![Register](static/images/register.png) | ![Attendance](static/images/attendance.png) | ![Records](static/images/records.png) |
+## 🖼️ Video link 
+   ** https://drive.google.com/file/d/1m4eZHihT5WdgA4bg-GQgOyvcJDyhyopk/view?usp=drive_link **
 
 > Add screenshots to the `static/images/` folder to make your README look more professional.
 
