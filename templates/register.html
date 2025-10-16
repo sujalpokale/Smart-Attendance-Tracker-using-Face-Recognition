@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Register Face</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/register.css') }}">
+</head>
+
+<body>
+    <h2>Register a New Face</h2>
+    <form method="POST">
+        <label>Name:</label><br>
+        <input type="text" name="name"><br><br>
+        <label>Roll No:</label><br>
+        <input type="text" name="roll"><br><br>
+        <button type="submit">Register Face</button>
+    </form>
+    <br><a href="/">Back to Home</a>
+</body>
+</html>
